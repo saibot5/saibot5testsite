@@ -1,0 +1,42 @@
+{
+    "böcker": [
+      {
+        "id": 1,
+        "titel": "Det förlorade riket",
+        "författare": "Erik Olsson",
+        "utgivningsår": 2010,
+        "genre": "Fantasy"
+      },
+      {
+        "id": 2,
+        "titel": "I skuggan av framtiden",
+        "författare": "Lena Andersson",
+        "utgivningsår": 2015,
+        "genre": "Science Fiction"
+      },
+      {
+        "id": 3,
+        "titel": "Gåtans lösning",
+        "författare": "Karl Berglund",
+        "utgivningsår": 2018,
+        "genre": "Deckare"
+      }
+    ],
+    "cdskivor": [
+      {
+        "id": 101,
+        "cdnamn": "smörfix",
+        "artist": "smörpojkarna",
+        "utgivningsår": 2010,
+        "genre": "Pop"
+      },
+      {
+        "id": 102,
+        "cdnamn": "Varning för barn",
+        "artist": "Magnus & Brasse",
+        "utgivningsår": 2015,
+        "genre": "VuxenVisor"
+      }
+     
+    ]
+}
