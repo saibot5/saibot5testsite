@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saibot5/testsite/static/css/main.ccefa90c.css",
-    "main.js": "/saibot5/testsite/static/js/main.41205f59.js",
-    "static/js/592.3dbd1b1c.chunk.js": "/saibot5/testsite/static/js/592.3dbd1b1c.chunk.js",
-    "index.html": "/saibot5/testsite/index.html",
-    "main.ccefa90c.css.map": "/saibot5/testsite/static/css/main.ccefa90c.css.map",
-    "main.41205f59.js.map": "/saibot5/testsite/static/js/main.41205f59.js.map",
-    "592.3dbd1b1c.chunk.js.map": "/saibot5/testsite/static/js/592.3dbd1b1c.chunk.js.map"
+    "main.css": "/testsite/static/css/main.ccefa90c.css",
+    "main.js": "/testsite/static/js/main.698e807d.js",
+    "static/js/592.3dbd1b1c.chunk.js": "/testsite/static/js/592.3dbd1b1c.chunk.js",
+    "index.html": "/testsite/index.html",
+    "main.ccefa90c.css.map": "/testsite/static/css/main.ccefa90c.css.map",
+    "main.698e807d.js.map": "/testsite/static/js/main.698e807d.js.map",
+    "592.3dbd1b1c.chunk.js.map": "/testsite/static/js/592.3dbd1b1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccefa90c.css",
-    "static/js/main.41205f59.js"
+    "static/js/main.698e807d.js"
   ]
 }
